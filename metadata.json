@@ -1,0 +1,6 @@
+{
+  "name": "MS Project Lego Schedule Generator",
+  "description": "Interactive Lego building timeline scheduler and MS Project blueprint generator with Gantt charting and professional task management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
